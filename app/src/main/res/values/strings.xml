@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LOT</string>
+    <string name="sendcon">SendtoServer(con)</string>
+    <string name="sendsig">SendtoServer(sig)</string>
+    <string name="Setting">Setting</string>
+    <string name="title_activity_photo_picker">PhotoPicker</string>
+    <string name="commit">OK</string>
+    <string name="commit_num">OK(%1$d/%2$d)</string>
+    <string name="ADDKEY">Add Key</string>
+    <string name="PHOTOCHOOSE">Select Photo</string>
+    <string name="KEYDELETE">keyClear</string>
+</resources>

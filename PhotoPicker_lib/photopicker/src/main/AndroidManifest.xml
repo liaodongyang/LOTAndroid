@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.openlib.photopicker" >
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <application
+        android:allowBackup="true"
+        android:name="com.openlib.photopicker.Application"
+        android:label="@string/app_name" >
+        <activity
+            android:name="com.openlib.photopicker.PhotoPickerActivity"
+            android:screenOrientation="portrait">
+        </activity>
+    </application>
+
+</manifest>
